@@ -32,6 +32,3 @@ class Api_req:
     def delete_req(self):
         responce = requests.delete(self.delete_url)
         return responce
-abc=Api_req()
-print(abc.get_url)
-print(abc.get_req().status_code)
