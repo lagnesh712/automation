@@ -1,7 +1,6 @@
 import logging
 
 class Logger:
-    @staticmethod
     def loggen():
         logger = logging.getLogger(__name__)
         logger.setLevel(logging.DEBUG)
