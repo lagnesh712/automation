@@ -1,0 +1,7 @@
+{
+  "hover_over_by_xpath": "//div [@class=\"desktop-actions\"]/div/div/span[1]",
+  "login_button_xpath": "//a [@class=\"desktop-linkButton\"]",
+  "home_button_xpath": "//a [@href=\"/\"]",
+  "search_bar_class": "desktop-searchBar",
+  "search_button_xpath": "//a[@class=\"desktop-submit\"]/span"
+}
